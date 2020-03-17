@@ -1,0 +1,3 @@
+一款视频打码软件,能够给视频中的人物打码,
+同时,你只需要配置config.ini的savepath和readpath即可,注意文件之间用/隔开或者\\
+它需要python-opencv库和configparser库的支持,可以使用pip安装
